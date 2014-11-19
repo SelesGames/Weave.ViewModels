@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Seles Games</authors>
+    <owners>Seles Games</owners>
+    <description>$description$</description>
+
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://www.nuget.org/packages/Weave.ViewModels</projectUrl>
+    <iconUrl>https://pbs.twimg.com/profile_images/1508906694/twitter_400x400.jpg</iconUrl>
+    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>Initial v1 release.</releaseNotes>
+    <copyright>Copyright 2010</copyright>
+    <tags>Weave, Portable, ViewModels</tags>
+  </metadata>
+</package>
